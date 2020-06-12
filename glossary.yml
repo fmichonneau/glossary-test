@@ -1,0 +1,5 @@
+- slug: rubber_duck
+  en:
+    term: "Rubber Duck"
+    def: >
+      The rubber duck is a useful coding companion. By explaining him what your code is doing it might help you find your bugs.
